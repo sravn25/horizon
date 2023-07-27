@@ -1,0 +1,56 @@
+{
+  "links": [
+    {
+      "link": "/",
+      "label": "Home"
+    },
+    {
+      "link": "/about",
+      "label": "About Us"
+    },
+    {
+      "link": "/trauma",
+      "label": "Understanding Trauma",
+      "links": [
+        {
+          "link": "/trauma#definition",
+          "label": "Definition of Trauma"
+        },
+        {
+          "link": "/trauma#types",
+          "label": "Types of Trauma"
+        },
+        {
+          "link": "/trauma#reaction",
+          "label": "Common Reactions"
+        },
+        {
+          "link": "/trauma#resources",
+          "label": "Resources for Understanding Trauma"
+        }
+      ]
+    },
+    {
+      "link": "/healing",
+      "label": "Healing and Recovery",
+      "links": [
+        {
+          "link": "/healing#strat",
+          "label": "Strategies, Techniques, Resources for Healing"
+        },
+        {
+          "link": "/healing#self",
+          "label": "Self-care Practices"
+        },
+        {
+          "link": "/healing#support",
+          "label": "Support Networks and Tools"
+        }
+      ]
+    },
+    {
+      "link": "/resources",
+      "label": "Resources and Support"
+    }
+  ]
+}
